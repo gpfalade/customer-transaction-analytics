@@ -60,9 +60,7 @@ Sample synthetic output is included in each script folder.
 ## Author
 
 **Gbemileke Emmanuel Falade**
-Senior Data Analyst and Data Scientist, Union Bank of Nigeria
-Independent Data Consultant, Sapphire Virtual Networks Limited
-MSc Data Science (Distinction), University of East London
 
-GitHub: [github.com/gpfalade](https://github.com/gpfalade)
-Published: The Punch Newspaper, Viewpoint Section, June 2026
+Senior Data Analyst | Data Scientist | Data Consultant
+
+https://www.linkedin.com/in/gbemileke-falade
