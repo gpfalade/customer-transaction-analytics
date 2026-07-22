@@ -15,7 +15,7 @@
 
   PARAMETERS
   ----------
-  :ACCOUNT_NO   One or more account numbers
+  :ACCOUNT_NO   Account number
   :STARTDATE    Analysis start date  (DD-MON-YYYY e.g. 01-JAN-2025)
   :ENDDATE      Analysis end date    (DD-MON-YYYY e.g. 31-DEC-2025)
 
@@ -30,9 +30,12 @@
 
   AUTHOR
   ------
-  Gbemileke Emmanuel Falade
-  Senior Data Analyst, Advanced Analytics
-  Union Bank of Nigeria Plc
+
+Gbemileke Emmanuel Falade
+
+Senior Data Analyst | Data Scientist | Data Consultant
+
+https://www.linkedin.com/in/gbemileke-falade
 
 ==============================================================================
 */
