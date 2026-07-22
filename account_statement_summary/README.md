@@ -144,8 +144,8 @@ for a synthetic example showing six months of output for one account.
 ## Database Environment
 
 - **Database:** Oracle 19c
-- **Core banking system:** Temenos FCUBS
-- **Access:** Read-only via database link (@biuser.fcubs_dwprod)
+- **Core banking system:** Oracle FCUBS
+- **Access:** Read-only
 - **Schema:** FCUBS
 - **Key tables:**
   - FCUBS.ACVW_ALL_AC_ENTRIES — All account entries view
@@ -163,5 +163,4 @@ Oracle-specific features used:
 - Recursive CTE with DUAL
 - DECODE() function
 - KEEP (DENSE_RANK FIRST ORDER BY ...)
-- Database links (@biuser.fcubs_dwprod)
 - NVL() for null handling
