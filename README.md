@@ -18,14 +18,14 @@ queries, and Oracle window functions.
 
 | Script | Description | Techniques |
 |--------|-------------|------------|
-| [account_transaction_summary](account_statement_summary/) | Monthly account statement with running balances, turnover, max/min dates, days in overdraft, and average daily balance | Recursive CTE, correlated subquery, KEEP DENSE_RANK, forward-fill |
+| [account_transaction_summary](account_statement_summary/) | Monthly summarised account transactions with running balances, turnover, max/min dates, days in overdraft, and average daily balance | Recursive CTE, correlated subquery, KEEP DENSE_RANK, forward-fill |
 
 ---
 
 ## Database Environment
 
 - **Database:** Oracle 19c
-- **Core banking system:** Temenos FCUBS
+- **Core banking system:** Oracle FCUBS
 - **Access pattern:** Read-only queries via database link
 - **Schema:** FCUBS
 
